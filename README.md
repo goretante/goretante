@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ante, student from :croatia:. 
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/goretante)
+[![GitHub followers](https://img.shields.io/github/followers/goretante?label=Follow&style=social)](https://github.com/goretante)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/antegoreta/)
 
 ---
