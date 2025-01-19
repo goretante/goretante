@@ -9,10 +9,6 @@
 
 I am a **Computer Science student** with a passion for **software development and web development**. Currently, I am pursuing my studies at University of Split, Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture, where I am developing a solid foundation in algorithms, data structures, and software engineering principles.
 
-- 🌱 I’m currently learning **Web Development**.
-- 🤔 I’m interested in exploring **Software Development**.
-- 📫 How to reach me: [agoret00@fesb.hr](mailto:agoret00@fesb.hr).
-
 ### 🚀 Skills
 
 - **Programming Languages:** Python, C/C++, JavaScript
