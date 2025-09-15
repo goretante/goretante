@@ -1,5 +1,11 @@
 programmer.
 
+work experience:
+- Software Developer at Ericsson Nikola Tesla
+  * Dec 2024 - Present
+  * Working on Ericsson's Software Defined Infrastructure
+  * Languages and tools: Erlang, Java, Jira, git
+
 education:
 - Master's degree in Computer Science
   * 2025 - 2027
