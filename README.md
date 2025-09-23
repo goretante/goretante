@@ -16,3 +16,7 @@ education:
 - High school diploma, Science and Mathemathics
   * 2018 - 2022
   * III. gimnazija, Split
+
+programming languages & tools:
+- programming languages: python, go, erlang, java
+- tools: vs code, intellij, git, jira
