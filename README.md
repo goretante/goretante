@@ -20,3 +20,4 @@ education:
 programming languages & tools:
 - programming languages: python, go, erlang, java
 - tools: vs code, intellij, git, jira
+- os: windows, linux
