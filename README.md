@@ -1,8 +1,10 @@
 programmer.
 
 work experience:
+- Software Developer at Super Technologies
+  * Jul 2026 - Present
 - Software Developer at Ericsson Nikola Tesla
-  * Dec 2024 - Present
+  * Dec 2024 - Jul 2026
   * Working on Ericsson's Software Defined Infrastructure
   * Languages and tools: Erlang, Java, Jira, git
 
